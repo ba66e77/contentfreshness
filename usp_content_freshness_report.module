@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the USP Content Freshness Report feature.
+ */
+
+include_once 'usp_content_freshness_report.features.inc';
